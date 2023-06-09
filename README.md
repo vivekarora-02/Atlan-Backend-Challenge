@@ -7,8 +7,6 @@
 - [Task 3](#rocket-task-3)
 - [Task 4](#rocket-task-4)
 - [Dependencies Used](#ballot_box-dependencies-used)
-- [License](#memo-license)
-- [Thanks to Contributors and Sponsors](#purple_heart-thanks)
 
 ## :rocket: Task 1 (Great Task)
 

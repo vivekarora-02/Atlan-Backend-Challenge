@@ -294,6 +294,4 @@ Create a Middleware to send message to user/client after successfully recording 
  }
 ```
 
-## :purple_heart: Thanks
-
-Thanks to all the smart people at Atlan for reviewing my project.
+## ❤️: Thank You!!

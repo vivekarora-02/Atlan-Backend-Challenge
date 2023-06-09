@@ -294,10 +294,6 @@ Create a Middleware to send message to user/client after successfully recording 
  }
 ```
 
-## :memo: License
-
-Licensed under the [MIT License](./LICENSE).
-
 ## :purple_heart: Thanks
 
 Thanks to all the smart people at Atlan for reviewing my project.
